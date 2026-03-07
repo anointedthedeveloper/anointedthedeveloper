@@ -83,29 +83,7 @@ I enjoy solving real problems with code and creating tools that improve develope
 
 ---
 
-# 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/anointedthedeveloper/RepoPilot">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=RepoPilot&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/anointedthedeveloper/Search-Optimization">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=Search-Optimization&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/anointedthedeveloper/Developer-CLI-Tool">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=Developer-CLI-Tool&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/anointedthedeveloper/MyAnimeApi">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=MyAnimeApi&theme=tokyonight"/>
-</a>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
