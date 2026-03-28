@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F59E0B,100:6C63FF&height=220&section=header&text=Anointed%20Agunloye&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Tool%20Builder&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+tools+that+developers+actually+love;%E2%9A%A1+Automating+everything+I+do+more+than+twice;%F0%9F%94%A5+From+Abuja+to+the+world+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+tools+that+developers+actually+love;%E2%9A%A1+Automating+everything+I+do+more+than+twice;%F0%9F%94%A5+From+Lagos+to+the+world+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Followers -->
 <br/>
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 I'm **Anointed Agunloye**, a passionate **Web Developer**, **DevOps Engineer** & **Tool Builder** from Abuja 🇳🇬.
 
@@ -100,14 +100,14 @@ I love turning real-world problems into clean, productive code — especially de
 ### 🔥 GitHub Stats & Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anointedthedeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
+  <a href="https://github.com/anointedthedeveloper"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=anointedthedeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" /></a>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anointedthedeveloper&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anointedthedeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+  <a href="https://github.com/anointedthedeveloper"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anointedthedeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" /></a>
 </div>
 
 <br/>
