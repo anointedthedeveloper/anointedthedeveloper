@@ -102,9 +102,6 @@ I love turning real-world problems into clean, productive code — especially de
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/anointedthedeveloper"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anointedthedeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" /></a>
-</div>
 
 <br/>
 
@@ -114,30 +111,6 @@ I love turning real-world problems into clean, productive code — especially de
 
 ---
 
-### 📌 Pinned Projects
-
-<div align="center">
-  <a href="https://github.com/anointedthedeveloper/Downloaderino">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=Downloaderino&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="Downloaderino" />
-  </a>
-  <a href="https://github.com/anointedthedeveloper/FocusLock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=FocusLock&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="FocusLock" />
-  </a>
-  <a href="https://github.com/anointedthedeveloper/NetScope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=NetScope&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="NetScope" />
-  </a>
-  <a href="https://github.com/anointedthedeveloper/Movie-Api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=Movie-Api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="Movie-Api" />
-  </a>
-  <a href="https://github.com/anointedthedeveloper/animepahe-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=animepahe-cli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="animepahe-cli" />
-  </a>
-  <a href="https://github.com/anointedthedeveloper/Developer-CLI-Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=Developer-CLI-Tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="Developer-CLI-Tool" />
-  </a>
-</div>
-
-<p align="center"><i>Check out my 70+ repositories for more!</i></p>
 
 ---
 
