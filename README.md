@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F59E0B,100:6C63FF&height=220&section=header&text=Anointed%20Agunloye&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Tool%20Builder&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+tools+that+developers+actually+love;%E2%9A%A1+Automating+everything+I+do+more+than+twice;%F0%9F%94%A5+From+Nigeria+to+the+world+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+tools+that+developers+actually+love;%E2%9A%A1+Automating+everything+I+do+more+than+twice;%F0%9F%94%A5+From+Lagos+to+the+world+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Followers -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=anointedthedeveloper&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/anointedthedeveloper?tab=followers"><img src="https://img.shields.io/github/followers/anointedthedeveloper?label=Followers&style=for-the-badge&color=F59E0B&labelColor=1a1b27" alt="Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=anointethedeveloper&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/anointethedeveloper?tab=followers"><img src="https://img.shields.io/github/followers/anointethedeveloper?label=Followers&style=for-the-badge&color=F59E0B&labelColor=1a1b27" alt="Followers" /></a>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm **Anointed Agunloye**, a passionate **Web Developer**, **DevOps Engineer** & **Tool Builder** from 🇳🇬.
+I'm **Anointed Agunloye**, a passionate **Web Developer**, **DevOps Engineer** & **Tool Builder** from Lagos 🇳🇬.
 
 I love turning real-world problems into clean, productive code — especially developer utilities, automation scripts, CI/CD pipelines, and scalable web applications.
 
@@ -100,20 +100,20 @@ I love turning real-world problems into clean, productive code — especially de
 ### 🔥 GitHub Stats & Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anointedthedeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anointedthedeveloper&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anointethedeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anointethedeveloper&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anointedthedeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anointethedeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anointedthedeveloper&bg_color=0D1117&color=6C63FF&line=F59E0B&point=6C63FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anointethedeveloper&bg_color=0D1117&color=6C63FF&line=F59E0B&point=6C63FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
 </div>
 
 ---
@@ -121,23 +121,23 @@ I love turning real-world problems into clean, productive code — especially de
 ### 📌 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/anointedthedeveloper/Downloaderino">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=Downloaderino&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="Downloaderino" />
+  <a href="https://github.com/anointethedeveloper/Downloaderino">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointethedeveloper&repo=Downloaderino&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="Downloaderino" />
   </a>
-  <a href="https://github.com/anointedthedeveloper/FocusLock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=FocusLock&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="FocusLock" />
+  <a href="https://github.com/anointethedeveloper/FocusLock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointethedeveloper&repo=FocusLock&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="FocusLock" />
   </a>
-  <a href="https://github.com/anointedthedeveloper/NetScope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=NetScope&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="NetScope" />
+  <a href="https://github.com/anointethedeveloper/NetScope">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointethedeveloper&repo=NetScope&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="NetScope" />
   </a>
-  <a href="https://github.com/anointedthedeveloper/Movie-Api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=Movie-Api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="Movie-Api" />
+  <a href="https://github.com/anointethedeveloper/Movie-Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointethedeveloper&repo=Movie-Api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="Movie-Api" />
   </a>
-  <a href="https://github.com/anointedthedeveloper/animepahe-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=animepahe-cli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="animepahe-cli" />
+  <a href="https://github.com/anointethedeveloper/animepahe-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointethedeveloper&repo=animepahe-cli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="animepahe-cli" />
   </a>
-  <a href="https://github.com/anointedthedeveloper/Developer-CLI-Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointedthedeveloper&repo=Developer-CLI-Tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="Developer-CLI-Tool" />
+  <a href="https://github.com/anointethedeveloper/Developer-CLI-Tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anointethedeveloper&repo=Developer-CLI-Tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B" alt="Developer-CLI-Tool" />
   </a>
 </div>
 
