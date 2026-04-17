@@ -142,3 +142,4 @@ I love turning real-world problems into clean, productive code — especially de
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+%F0%9F%91%8B+Star+a+repo+if+you+like+it!" alt="Footer typing" />
 </div>
+.
