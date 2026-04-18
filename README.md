@@ -6,7 +6,7 @@
 <!-- Profile Views & Followers -->
 <br/>
 <img src="https://komarev.com/ghpvc/?username=anointedthedeveloper&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/anointedthedeveloper?tab=followers"><img src="https://img.shields.io/github/followers/anointedthedeveloper?label=Followers&style=for-the-badge&color=F59E0B&labelColor=1a1b27" alt="Followers" /></a>
+<a href="https://github.com/anointedthedeveloper?tab=followers"><img src="https://img.shields.io/github/followers/anointedthedeveloper?label=Followers&style=for-the-badge&color=F59E0B&labelColor=1a1b27" alt="Followers" /></a> 
 </div>
 
 ---
