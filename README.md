@@ -1,1 +1,1 @@
-## C ode is like humor when you have to explain it, it's bad
+## Code is like humor when you have to explain it, it's bad
